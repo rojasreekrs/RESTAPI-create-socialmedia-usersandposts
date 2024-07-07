@@ -1,0 +1,1 @@
+insert into USER_DETAILS(birth_date, id, name) values(CURRENT_DATE(), 1001, 'roja');
